@@ -1,4 +1,5 @@
 **Privacy Policy**
+
 Last updated: [2023/10/14]
 
 Welcome to “Hot Wheels Collection”. This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information, in conjunction with your access to and use of the “Hot Wheels Collection” app.
@@ -22,6 +23,7 @@ Contact Us
 If you have any questions about this Privacy Policy, you can contact us at: hotwheelscollectionapp@gmail.com
 
 **Disclaimers**
+
 Hot Wheels are trademarks of MATTEL, INC.
 
 This app is an unofficial app and is NOT affiliated, endorsed or supported by Mattel.
